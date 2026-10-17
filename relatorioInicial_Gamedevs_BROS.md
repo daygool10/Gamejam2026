@@ -1,5 +1,5 @@
 ## Equipe
-Gamedevs Bros
+- Gamedevs Bros
 
 ## Integrantes
 - Daiane Cristina Rocha - ADS matutino 4º Semestre
@@ -7,12 +7,12 @@ Gamedevs Bros
 - Ricardo Gabriel Camargo Soares - ADS matutino 4º Semestre
 
 ## Ferramenta 
-Godot
+- Godot
 
 ## Descrição
-**Estilo de jogo**: Simulação de trabalho
-**Gênero**: Terror e suspense
-**O que o player irá fazer**: Ele será o guardinha responsável pela entrada de alunos e professores na Fatec. Dentre essas pessoas há alguns *doppelgänger* que podem se passar por pessoas reais, tentando se misturar; a missão do player é verificar se as pessoas realmente fazem parte da instituição ou se são *doppelgänger*; 
+- **Estilo de jogo**: Simulação de trabalho
+- **Gênero**: Terror e suspense
+- **O que o player irá fazer**: Ele será o guardinha responsável pela entrada de alunos e professores na Fatec. Dentre essas pessoas há alguns *doppelgänger* que podem se passar por pessoas reais, tentando se misturar; a missão do player é verificar se as pessoas realmente fazem parte da instituição ou se são *doppelgänger*; 
 - Caso algum *doppelgänger* seja liberado e entre na Fatec, o player deve confrontá-lo e eliminá-lo do ambiente. 
 - Caso o player barre a entrada de pessoas reais:
 	- Um aluno do 1º semestre: perde 10 pontos;
@@ -25,4 +25,4 @@ Godot
 	- O diretor: você perde a partida;
 
 ## Como o tema está incluído
-A temática do jogo é terror e o ambiente e personagens terão fantasias e decorações de halloween
+- A temática do jogo é terror e o ambiente e personagens terão fantasias e decorações de halloween
