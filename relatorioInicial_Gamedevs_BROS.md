@@ -2,9 +2,9 @@
 Gamedevs Bros
 
 ## Integrantes
-Daiane Cristina Rocha - ADS matutino 4º Semestre
-Heitor Rodrigues Gomes Birai - ADS matutino 2º Semestre
-Ricardo Gabriel Camargo Soares - ADS matutino 4º Semestre
+- Daiane Cristina Rocha - ADS matutino 4º Semestre
+- Heitor Rodrigues Gomes Birai - ADS matutino 2º Semestre
+- Ricardo Gabriel Camargo Soares - ADS matutino 4º Semestre
 
 ## Ferramenta 
 Godot
