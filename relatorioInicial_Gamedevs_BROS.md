@@ -1,5 +1,5 @@
 ## Equipe
-- Gamedevs Bros
+- Gamedevs Bros - Grupo 5
 
 ## Integrantes
 - Daiane Cristina Rocha - ADS matutino 4º Semestre
