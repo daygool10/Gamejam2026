@@ -36,8 +36,6 @@ flowchart TD
 - **Linguagem**: GML - linguagem própria do GameMaker;
 - **Ferramentas**: Obsidian - A documentação escrita utilizando Markdown; GameMaker - Utilizado para desenvolvimento do projeto; Ibis Paint - Para desenvolvimentos dos backgrounds e personagens; 
 
-### 📃Instruções para Compilação, Instalação e Execução do Jogo
-
 
 ### ✏️Descrição de Todas as Mudanças Entre o Relatório Inicial e o Produto Final
 -  **Alteração da ferramenta de desenvolvimento**: Migramos da Godot para o GameMaker Studio 2, pois um dos membros sabia lidar melhor com a linguagem; 
@@ -47,7 +45,11 @@ flowchart TD
 -  **Relatório mais completo**: Agora o relatório inclui seções específicas sobre arquitetura da solução, lista de ferramentas de apoio e menciona também instruções de compilação e execução;
 
 ### 💻 Uso da IA 
-- Utilizamos as IAs *Deepseek, ChatGPT  e Manus* para auxilio na hora da criação da Arquitetura do projeto e correção de bugs do código; 
+- Utilizamos as IAs *Deepseek, ChatGPT  e Manus* para auxilio na hora da criação da Arquitetura do projeto e correção de bugs do código;
+
+### 📃Instruções para Compilação, Instalação e Execução do Jogo
+- Baixar a pasta; extrair os arquivos;
+- Abrir o arquivo instalador, escolher o caminho e baixar o jogo; 
 
 ### 📸Capturas de Tela
 ![Tela de início](imgs/image1.png)
