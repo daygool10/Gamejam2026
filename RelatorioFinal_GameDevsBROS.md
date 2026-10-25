@@ -46,6 +46,9 @@ flowchart TD
 -  **Tema Halloween**: Antes era apenas implícito no gênero, e agora é incorporado de forma explícita no título do projeto; 
 -  **Relatório mais completo**: Agora o relatório inclui seções específicas sobre arquitetura da solução, lista de ferramentas de apoio e menciona também instruções de compilação e execução;
 
+### 💻 Uso da IA 
+- Utilizamos as IAs *Deepseek, ChatGPT  e Manus* para auxilio na hora da criação da Arquitetura do projeto e correção de bugs do código; 
+
 ### 📸Capturas de Tela
 ![Tela de início](imgs/image1.png)
 
