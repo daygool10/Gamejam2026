@@ -21,6 +21,15 @@
 -  O tema Halloween foi abordado nos backgrounds do jogo e na criação dos personagens; 
 
 ###  ⚙️Arquitetura da Solução Adotada
+```mermaid
+flowchart TD
+    A[Arrays e scripts de conteúdo em GML] --> B[Controlador de narrativa e regras]
+    B --> C[Estado atual: personagem, diálogo, bloco e opções]
+    C --> D[Apresentação: textos, sprites e cenário]
+    E[Entrada do jogador] --> B
+    F[Salas: prólogo, menu, tutorial e jogo] --> B
+```
+
 
 
 ### 💻Tecnologias e Padrões Utilizados no Desenvolvimento
