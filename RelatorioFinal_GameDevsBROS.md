@@ -38,10 +38,16 @@
 -  **Relatório mais completo**: Agora o relatório inclui seções específicas sobre arquitetura da solução, lista de ferramentas de apoio e menciona também instruções de compilação e execução;
 
 ### 📸Capturas de Tela
-![Tela de início](imgs/image.png)
+![Tela de início](imgs/image1.png)
 
 
+-------------------------------------------------------------------------------------------------------------
+
+![Jogo](imgs/image.png)
 
 
+-------------------------------------------------------------------------------------------------------------
+
+![Jogo](imgs/image3.png)
 
 
