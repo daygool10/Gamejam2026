@@ -1,9 +1,9 @@
 ### 👥Equipe
 - **GAMEDEVS BROS**;
 ### 👤Integrantes
-- **Daiane Cristina Rocha - ADS 4º semestre;
-- **Heitor Rodrigues Gomes Birai - ADS 2º semestre;
-- **Ricardo Gabriel Camargo Soares - ADS 4º semestre;
+- **Daiane Cristina Rocha - ADS 4º semestre;**
+- **Heitor Rodrigues Gomes Birai - ADS 2º semestre;**
+- **Ricardo Gabriel Camargo Soares - ADS 4º semestre;**
 
 ### ✏️Título Oficial 
 - **FEARTEC**: : The Halloween Disease;
